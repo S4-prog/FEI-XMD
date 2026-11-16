@@ -1,6 +1,6 @@
 
 export default Object.freeze({
-  botTitle: "⚡ 𝙁𝙀𝙄 𝙓𝙈𝘿 𝘽𝙊𝙏",
+  botTitle: "SAINT XMD",
   menu: {
     top: "╭━━━⟪ ",
     titleEnd: " ⟫━━━◆",
